@@ -1,2 +1,3 @@
 # hello-world
 this is the place where I start...
+I'm Cam and I am interested in GIT
